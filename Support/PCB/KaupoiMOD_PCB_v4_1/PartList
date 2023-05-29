@@ -1,0 +1,79 @@
+Partlist
+
+Assembly variant: 
+
+Part        Value            Package          Library             Position (mil)        Orientation
+
+12S1        3,81/1,65        3,81/1,65        wirepad             (1200 3550)           R0
+12S2        3,81/1,65        3,81/1,65        wirepad             (1000 3550)           R0
+12S3        3,81/1,65        3,81/1,65        wirepad             (1600 3550)           R0
+12S4        3,81/1,65        3,81/1,65        wirepad             (2650 3500)           R0
+12S5        3,81/1,65        3,81/1,65        wirepad             (1400 3200)           R0
+AUX_A/D                      1X04_LONGPADS    SparkFun-Connectors (3450 900)            R0
+BAT1        3,81/1,65        3,81/1,65        wirepad             (400 3100)            R0
+BATT_IN_GND 3,81/1,65        3,81/1,65        wirepad             (400 3300)            R0
+C1          0.1              C025-025X050     rcl                 (1800 2100)           R270
+C2          0.1              C025-025X050     rcl                 (3150 2000)           R90
+C3          0.1              C025-025X050     rcl                 (3400 1800)           R0
+C4          0.1              C025-025X050     rcl                 (3450 1650)           R90
+C5          0.1              C025-025X050     rcl                 (3400 1400)           R0
+C6          0.1              C025-025X050     rcl                 (3350 1250)           R270
+C20         1000uF           E5-13            rcl                 (2900 3000)           R0
+C21         1000uF           E5-13            rcl                 (900 3100)            R180
+C22         1000uF           E5-13            rcl                 (3175 2540)           R90
+C23         1000uF           E5-13            rcl                 (3450 3000)           R270
+CAN         CAN              1X08_NO_SILK     SparkFun-Connectors (2250 700)            R0
+D1          1N4004           DO41-10          diode               (2015 2850)           R90
+D2          3A               DO27-15          diode               (1550 2800)           R180
+D3          1N4004           DO41-10          diode               (470 2860)            R0
+GN1         3,81/1,65        3,81/1,65        wirepad             (1400 3550)           R0
+GN2         3,81/1,65        3,81/1,65        wirepad             (2850 3500)           R0
+GN3         3,81/1,65        3,81/1,65        wirepad             (3250 3500)           R0
+GN4         3,81/1,65        3,81/1,65        wirepad             (1800 3550)           R0
+GN5         3,81/1,65        3,81/1,65        wirepad             (1600 3200)           R0
+GND         3,81/1,65        3,81/1,65        wirepad             (3050 3500)           R0
+IC2         7805             78XXS            v-reg               (2450 3000)           R270
+IC3         7805             78XXS            v-reg               (2450 2500)           R270
+IMP                          1X03_LONGPADS    SparkFun-Connectors (350 1000)            R90
+IMU         IMU              1X04_LONGPADS    SparkFun-Connectors (2900 900)            R0
+J2                           1X01             SparkFun-Connectors (1100 3100)           R0
+J3                           1X01             SparkFun-Connectors (2705 3040)           R0
+J6                           1X02_LONGPADS    SparkFun-Connectors (2700 2360)           R180
+J8          Analog in        1X06_NO_SILK     SparkFun-Connectors (2400 400)            R180
+K4          CB1-P-12V        CB1              relay               (700 2350)            R0
+LED         3mm              LED3MM           led                 (1800 3150)           R270
+M1          ARDUINO-NANO-3.0 ARDUINO-NANO-3.0 diy-modules         (1650 1750)           R90
+MOTOR                        1X04_LONGPADS    SparkFun-Connectors (3450 250)            R180
+MOTOR1                       1X04_LONGPADS    SparkFun-Connectors (3450 500)            R180
+OK1         4N33             DIL06            optocoupler         (750 1050)            R180
+OK2         4N33             DIL06            optocoupler         (750 1550)            R180
+OK3         4N33             DIL06            optocoupler         (750 450)             R180
+ON-OFF                       1X04_LONGPADS    SparkFun-Connectors (775 3550)            R180
+QWIIC       Vert Qwiic       JST04_1MM_VERT   SparkFun-Connectors (2600 1025)           R180
+R1          330              0309/12          rcl                 (2725 1275)           R0
+R2          330              0309/12          rcl                 (2725 1155)           R0
+R3          1k               0309/12          rcl                 (1000 450)            R270
+R4          330              0309/12          rcl                 (1130 955)            R90
+R5          330              0309/12          rcl                 (1150 450)            R90
+R6          1k               0309/12          rcl                 (3350 2100)           R90
+R7          1k               0309/12          rcl                 (3500 2100)           R90
+R8          47               0309/12          rcl                 (1650 2650)           R180
+R9          330              0309/12          rcl                 (3600 2350)           R270
+R10         330              0309/12          rcl                 (1600 450)            R270
+R11         330              0309/12          rcl                 (1450 450)            R270
+R12         1k               0309/12          rcl                 (980 1685)            R90
+R13         1k               0309/12          rcl                 (985 1065)            R90
+R14         330              0309/12          rcl                 (1300 450)            R270
+R16         1k               0309/12          rcl                 (3800 1700)           R270
+R17         1k               0309/12          rcl                 (3650 1700)           R270
+R18         330              0309/12          rcl                 (1125 1575)           R90
+R19         1k               0309/12          rcl                 (2500 3000)           R270
+REMOTE                       1X03_LONGPADS    SparkFun-Connectors (350 450)             R90
+SJ1         0R-JUMPA         A0R-JMP          jump-0r-smd         (1600 2350)           R270
+STEER                        1X03_LONGPADS    SparkFun-Connectors (350 1550)            R90
+U2          ADC-4CH-ADS1115  ADC-4CH-ADS1115  diy-modules         (3500 1650)           R0
+U3          BTS442E2         TO220-5          v-reg-3             (2400 3550)           R270
+U4          CMPS14           CMPS14           IMU                 (2605 1525)           R90
+U5          BNO085           BNO085           IMU                 (2600 1780)           R270
+UX          3,81/175RND      3,81/1,75RND     wirepad             (2430 3550)           R0
+W.A.S.                       1X04_LONGPADS    SparkFun-Connectors (3750 3415)           R180

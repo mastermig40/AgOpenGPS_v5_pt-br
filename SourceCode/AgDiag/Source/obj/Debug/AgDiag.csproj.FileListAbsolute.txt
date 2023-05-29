@@ -1,0 +1,10 @@
+C:\AGOPENGPS_MEGA\AgOpenGPS_v5\AgDiag.exe.config
+C:\AGOPENGPS_MEGA\AgOpenGPS_v5\AgDiag.exe
+C:\AGOPENGPS_MEGA\AgOpenGPS_v5\AgDiag.pdb
+C:\AGOPENGPS_MEGA\SourceCode\AgDiag\Source\obj\Debug\AgDiag.csproj.AssemblyReference.cache
+C:\AGOPENGPS_MEGA\SourceCode\AgDiag\Source\obj\Debug\AgDiag.FormLoop.resources
+C:\AGOPENGPS_MEGA\SourceCode\AgDiag\Source\obj\Debug\AgDiag.Properties.Resources.resources
+C:\AGOPENGPS_MEGA\SourceCode\AgDiag\Source\obj\Debug\AgDiag.csproj.GenerateResource.cache
+C:\AGOPENGPS_MEGA\SourceCode\AgDiag\Source\obj\Debug\AgDiag.csproj.CoreCompileInputs.cache
+C:\AGOPENGPS_MEGA\SourceCode\AgDiag\Source\obj\Debug\AgDiag.exe
+C:\AGOPENGPS_MEGA\SourceCode\AgDiag\Source\obj\Debug\AgDiag.pdb
